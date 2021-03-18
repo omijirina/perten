@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
 enable : true
-title : "Crema facial hidratante "Care""
+title : "Crema facial hidratante Care"
 content : "¿Le gustaría brindar un cuidado de la piel altamente efectivo?"
 image : "images/banner.png"
   # button
