@@ -4,12 +4,7 @@ enable : true
 title : "Crema facial hidratante Care"
 content : "¿Le gustaría brindar un cuidado de la piel altamente efectivo?"
 image : "images/banner.png"
-  # button
-  button:
-    enable : true
-    label : "All Products"
-    link : "products"
-  # demo video
+ # demo video
   video:
     enable : true
     videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
